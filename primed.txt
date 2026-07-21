@@ -1,0 +1,7 @@
+hello
+pwd
+whoami
+ls
+ls -a
+ls -ld
+ls -lrt
